@@ -1,2 +1,2 @@
 # sample
-Sample repo for class
+Sample repo for class for Tuesday and Thursday
